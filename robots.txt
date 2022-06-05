@@ -4,4 +4,4 @@ Allow: /archives/
 Allow: /tags/
 Allow: /about/
 Allow: /categories/
-Sitemap: https://dysjunct/sitemap.xml
+sitemap: https://dysjunct/sitemap.xml
