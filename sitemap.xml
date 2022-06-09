@@ -1,125 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://dysjunct.tk/about/index.html</loc>
-    
-    <lastmod>2022-06-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dysjunct.tk/2022/06/02/Blog-Technology-Programmer/The-Tech-Uniform-for-every-developer/</loc>
-    
-    <lastmod>2022-06-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dysjunct.tk/2022/06/02/Blog-Technology/The-Best-Tech-Movies-for-Developers/</loc>
-    
-    <lastmod>2022-06-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dysjunct.tk/categories/index.html</loc>
-    
-    <lastmod>2022-06-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dysjunct.tk/404/index.html</loc>
-    
-    <lastmod>2022-05-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dysjunct.tk/tags/index.html</loc>
-    
-    <lastmod>2022-05-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://dysjunct.tk/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
 
-  
-  <url>
-    <loc>https://dysjunct.tk/tags/Technology/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dysjunct.tk/tags/Programmer/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dysjunct.tk/tags/Uniform/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dysjunct.tk/tags/Fashion/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dysjunct.tk/tags/Tv/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dysjunct.tk/tags/Movies/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
+    <sitemap>
+        <loc>https://dysjunct.tk/post-sitemap.xml</loc>
+        <lastmod>2022-06-03T10:28:21.383Z</lastmod>
+    </sitemap>
 
-  
-  <url>
-    <loc>https://dysjunct.tk/categories/Blog-Technology-Programmer/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://dysjunct.tk/categories/Blog-Technology/</loc>
-    <lastmod>2022-06-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-</urlset>
+    <sitemap>
+        <loc>https://dysjunct.tk/page-sitemap.xml</loc>
+        <lastmod>2022-06-03T10:51:17.808Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://dysjunct.tk/category-sitemap.xml</loc>
+        <lastmod>2022-06-03T10:01:24.727Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://dysjunct.tk/tag-sitemap.xml</loc>
+        <lastmod>2022-06-03T10:01:24.727Z</lastmod>
+    </sitemap>
+
+</sitemapindex>
+

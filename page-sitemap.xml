@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    
+    <url>
+        <loc>https://dysjunct.tk/about/</loc>
+        <lastmod>2022-06-03T10:51:17.808Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    
+    <url>
+        <loc>https://dysjunct.tk/categories/</loc>
+        <lastmod>2022-06-01T15:48:58.334Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    
+    <url>
+        <loc>https://dysjunct.tk/404/</loc>
+        <lastmod>2022-05-28T08:58:58.139Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    
+    <url>
+        <loc>https://dysjunct.tk/tags/</loc>
+        <lastmod>2022-05-27T20:38:42.518Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    </url>
+    
+</urlset>
+
