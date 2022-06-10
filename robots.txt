@@ -4,4 +4,3 @@ Allow: /archives/
 Allow: /tags/
 Allow: /about/
 Allow: /categories/
-Allow: sitemap.xml
