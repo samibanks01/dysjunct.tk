@@ -1,3 +1,0 @@
-User-agent: Googlebots
-Allow: /
-Sitemap: /sitemap.xml
