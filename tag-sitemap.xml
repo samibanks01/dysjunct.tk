@@ -30,13 +30,6 @@
     </url>
 
     <url>
-        <loc>https://dysjunct.tk/tags/Lifestyle/</loc>
-        <lastmod>2022-09-07T15:43:56.487Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
         <loc>https://dysjunct.tk/tags/Coding/</loc>
         <lastmod>2022-09-07T15:43:56.487Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -44,14 +37,21 @@
     </url>
 
     <url>
-        <loc>https://dysjunct.tk/tags/Programmer/</loc>
+        <loc>https://dysjunct.tk/tags/Songs/</loc>
         <lastmod>2022-09-07T15:43:56.487Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>https://dysjunct.tk/tags/Songs/</loc>
+        <loc>https://dysjunct.tk/tags/Lifestyle/</loc>
+        <lastmod>2022-09-07T15:43:56.487Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://dysjunct.tk/tags/Programmer/</loc>
         <lastmod>2022-09-07T15:43:56.487Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
